@@ -1,0 +1,83 @@
+
+cszb_plt5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cszb_plt_all1
+  rotate: true
+  xy: 114, 98
+  size: 411, 530
+  orig: 411, 530
+  offset: 0, 0
+  index: -1
+cszb_plt_all2
+  rotate: false
+  xy: 527, 46
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+cszb_plt_allc1
+  rotate: false
+  xy: 214, 2
+  size: 139, 94
+  orig: 139, 94
+  offset: 0, 0
+  index: -1
+cszb_plt_allc2
+  rotate: true
+  xy: 646, 5
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+cszb_plt_allc3
+  rotate: false
+  xy: 355, 22
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+cszb_plt_allc4
+  rotate: false
+  xy: 103, 14
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+cszb_plt_allc5
+  rotate: true
+  xy: 460, 24
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+cszb_plt_allc6
+  rotate: false
+  xy: 2, 4
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+cszb_plt_z2
+  rotate: true
+  xy: 2, 96
+  size: 413, 110
+  orig: 413, 110
+  offset: 0, 0
+  index: -1
+cszb_plt_z3
+  rotate: true
+  xy: 646, 113
+  size: 396, 178
+  orig: 396, 178
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 527, 18
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

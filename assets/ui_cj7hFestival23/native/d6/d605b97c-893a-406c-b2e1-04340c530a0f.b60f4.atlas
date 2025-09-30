@@ -1,0 +1,20 @@
+
+sqhd25w6_cjyx_guangbiao.png
+size: 116,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choujiang_zhunxing1
+  rotate: true
+  xy: 71, 20
+  size: 44, 43
+  orig: 64, 63
+  offset: 10, 10
+  index: -1
+choujiang_zhunxing2
+  rotate: false
+  xy: 2, 2
+  size: 67, 62
+  orig: 77, 75
+  offset: 6, 6
+  index: -1

@@ -1,0 +1,90 @@
+
+zytp_tx2_rd.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zytp_tx_rd1
+  rotate: true
+  xy: 194, 89
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+zytp_tx_rd10
+  rotate: true
+  xy: 201, 32
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+zytp_tx_rd11
+  rotate: false
+  xy: 140, 5
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+zytp_tx_rd12
+  rotate: true
+  xy: 140, 107
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+zytp_tx_rd2
+  rotate: false
+  xy: 2, 137
+  size: 190, 98
+  orig: 190, 98
+  offset: 0, 0
+  index: -1
+zytp_tx_rd3
+  rotate: true
+  xy: 189, 2
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+zytp_tx_rd4
+  rotate: true
+  xy: 140, 91
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+zytp_tx_rd5
+  rotate: true
+  xy: 194, 145
+  size: 90, 50
+  orig: 104, 55
+  offset: 7, 5
+  index: -1
+zytp_tx_rd6
+  rotate: false
+  xy: 180, 99
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+zytp_tx_rd7
+  rotate: true
+  xy: 224, 9
+  size: 21, 20
+  orig: 22, 25
+  offset: 0, 5
+  index: -1
+zytp_tx_rd8
+  rotate: true
+  xy: 140, 41
+  size: 46, 59
+  orig: 47, 59
+  offset: 1, 0
+  index: -1
+zytp_tx_rd9
+  rotate: false
+  xy: 2, 17
+  size: 136, 118
+  orig: 139, 118
+  offset: 3, 0
+  index: -1

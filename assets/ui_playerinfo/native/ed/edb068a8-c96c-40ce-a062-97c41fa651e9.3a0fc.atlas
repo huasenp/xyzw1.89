@@ -1,0 +1,41 @@
+
+yczb_medal.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_halo1
+  rotate: false
+  xy: 2, 52
+  size: 42, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1
+ui_chest_star
+  rotate: true
+  xy: 2, 26
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+yczb_img_medal1
+  rotate: false
+  xy: 2, 96
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1
+yczb_img_medal2
+  rotate: false
+  xy: 130, 104
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+yczb_img_medal3
+  rotate: false
+  xy: 130, 2
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1

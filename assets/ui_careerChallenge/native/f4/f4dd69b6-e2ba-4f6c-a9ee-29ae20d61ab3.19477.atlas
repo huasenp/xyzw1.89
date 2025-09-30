@@ -1,0 +1,90 @@
+
+zytp_eyes.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zytp_eye1_1
+  rotate: true
+  xy: 120, 80
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+zytp_eye1_2
+  rotate: true
+  xy: 167, 41
+  size: 38, 25
+  orig: 42, 27
+  offset: 1, 1
+  index: -1
+zytp_eye1_3
+  rotate: true
+  xy: 145, 81
+  size: 45, 32
+  orig: 46, 34
+  offset: 1, 1
+  index: -1
+zytp_eye1_4
+  rotate: true
+  xy: 119, 23
+  size: 48, 46
+  orig: 50, 48
+  offset: 1, 1
+  index: -1
+zytp_eye2_1
+  rotate: false
+  xy: 91, 2
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+zytp_eye2_2
+  rotate: true
+  xy: 88, 73
+  size: 53, 30
+  orig: 55, 32
+  offset: 0, 1
+  index: -1
+zytp_eye2_3
+  rotate: true
+  xy: 2, 14
+  size: 54, 40
+  orig: 56, 42
+  offset: 1, 1
+  index: -1
+zytp_eye2_4
+  rotate: true
+  xy: 2, 70
+  size: 56, 50
+  orig: 58, 52
+  offset: 1, 1
+  index: -1
+zytp_eye3_1
+  rotate: false
+  xy: 142, 7
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+zytp_eye3_2
+  rotate: true
+  xy: 91, 22
+  size: 49, 26
+  orig: 51, 26
+  offset: 2, 0
+  index: -1
+zytp_eye3_3
+  rotate: true
+  xy: 54, 73
+  size: 53, 32
+  orig: 57, 34
+  offset: 2, 1
+  index: -1
+zytp_eye3_4
+  rotate: true
+  xy: 44, 15
+  size: 53, 45
+  orig: 57, 46
+  offset: 2, 0
+  index: -1

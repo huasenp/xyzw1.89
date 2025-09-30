@@ -1,0 +1,62 @@
+
+zytp_title.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zytp_title1
+  rotate: false
+  xy: 68, 391
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+zytp_title2
+  rotate: false
+  xy: 140, 382
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1
+zytp_title3
+  rotate: false
+  xy: 325, 351
+  size: 118, 110
+  orig: 120, 111
+  offset: 2, 0
+  index: -1
+zytp_title4
+  rotate: true
+  xy: 2, 265
+  size: 115, 190
+  orig: 115, 190
+  offset: 0, 0
+  index: -1
+zytp_title5
+  rotate: false
+  xy: 2, 2
+  size: 461, 149
+  orig: 461, 149
+  offset: 0, 0
+  index: -1
+zytp_title6
+  rotate: true
+  xy: 2, 447
+  size: 14, 64
+  orig: 14, 65
+  offset: 0, 1
+  index: -1
+zytp_title7
+  rotate: false
+  xy: 236, 377
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+zytp_title8
+  rotate: false
+  xy: 194, 153
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1

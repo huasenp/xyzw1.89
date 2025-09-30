@@ -1,0 +1,181 @@
+
+dld_guide.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dld_guide_b1
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dld_guide_b2
+  rotate: true
+  xy: 295, 286
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+dld_guide_effect1
+  rotate: true
+  xy: 319, 273
+  size: 231, 185
+  orig: 231, 185
+  offset: 0, 0
+  index: -1
+dld_guide_effect2
+  rotate: true
+  xy: 2, 68
+  size: 112, 94
+  orig: 113, 95
+  offset: 1, 0
+  index: -1
+dld_guide_effect3
+  rotate: false
+  xy: 193, 39
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+dld_guide_m1
+  rotate: true
+  xy: 98, 148
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dld_guide_m2
+  rotate: true
+  xy: 2, 34
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dld_guide_m3
+  rotate: false
+  xy: 37, 33
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dld_guide_num1
+  rotate: false
+  xy: 295, 304
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+dld_guide_num2
+  rotate: true
+  xy: 285, 34
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dld_guide_num3
+  rotate: true
+  xy: 193, 14
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dld_guide_num4
+  rotate: false
+  xy: 71, 38
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+dld_guide_num5
+  rotate: false
+  xy: 295, 334
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+dld_guide_role
+  rotate: false
+  xy: 295, 59
+  size: 148, 212
+  orig: 148, 212
+  offset: 0, 0
+  index: -1
+dld_guide_s1
+  rotate: false
+  xy: 312, 290
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+dld_guide_s2
+  rotate: true
+  xy: 133, 143
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dld_guide_s3
+  rotate: false
+  xy: 308, 273
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dld_guide_s4
+  rotate: true
+  xy: 295, 275
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dld_guide_s5
+  rotate: true
+  xy: 98, 138
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dld_guide_t1
+  rotate: true
+  xy: 184, 132
+  size: 230, 109
+  orig: 230, 109
+  offset: 0, 0
+  index: -1
+dld_guide_t2
+  rotate: false
+  xy: 2, 364
+  size: 315, 140
+  orig: 315, 140
+  offset: 0, 0
+  index: -1
+hero_effect_box2
+  rotate: false
+  xy: 98, 38
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+ui_chest_star
+  rotate: true
+  xy: 133, 153
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+ui_effectlight_bigcircle01
+  rotate: false
+  xy: 2, 182
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 111, 138
+  size: 9, 8
+  orig: 29, 29
+  offset: 18, 5
+  index: -1

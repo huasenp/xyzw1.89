@@ -1,0 +1,237 @@
+
+axian_change4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+axian_eyel2
+  rotate: true
+  xy: 214, 11
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+axian_eyewhitel
+  rotate: false
+  xy: 444, 445
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+axian_eyewhiter
+  rotate: true
+  xy: 224, 4
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+axian_nose
+  rotate: true
+  xy: 283, 3
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+axian_redl
+  rotate: true
+  xy: 309, 7
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+axian_redr
+  rotate: true
+  xy: 214, 35
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+axjx_sh_eye
+  rotate: true
+  xy: 224, 29
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+axjx_sh_fingerl
+  rotate: false
+  xy: 444, 475
+  size: 23, 34
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+axjx_sh_handl
+  rotate: false
+  xy: 471, 449
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+axjx_sh_mouth
+  rotate: true
+  xy: 214, 55
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+axjx_sh_neck
+  rotate: false
+  xy: 417, 406
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+axjx_zxc_arml
+  rotate: true
+  xy: 245, 167
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+axjx_zxc_armr
+  rotate: false
+  xy: 213, 235
+  size: 52, 163
+  orig: 52, 163
+  offset: 0, 0
+  index: -1
+axjx_zxc_body
+  rotate: false
+  xy: 233, 24
+  size: 102, 131
+  orig: 102, 131
+  offset: 0, 0
+  index: -1
+axjx_zxc_coatl
+  rotate: true
+  xy: 2, 90
+  size: 65, 229
+  orig: 65, 229
+  offset: 0, 0
+  index: -1
+axjx_zxc_coatr
+  rotate: true
+  xy: 2, 157
+  size: 64, 241
+  orig: 64, 241
+  offset: 0, 0
+  index: -1
+axjx_zxc_ear
+  rotate: true
+  xy: 255, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+axjx_zxc_hair1
+  rotate: true
+  xy: 398, 249
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+axjx_zxc_hair2
+  rotate: false
+  xy: 138, 6
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+axjx_zxc_hat1
+  rotate: false
+  xy: 2, 2
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+axjx_zxc_hat2
+  rotate: true
+  xy: 469, 396
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+axjx_zxc_head
+  rotate: true
+  xy: 213, 400
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+axjx_zxc_hem
+  rotate: true
+  xy: 337, 67
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+axjx_zxc_hip
+  rotate: true
+  xy: 267, 297
+  size: 101, 69
+  orig: 101, 69
+  offset: 0, 0
+  index: -1
+axjx_zxc_legr
+  rotate: true
+  xy: 337, 20
+  size: 45, 163
+  orig: 45, 163
+  offset: 0, 0
+  index: -1
+axjx_zxc_tie
+  rotate: true
+  xy: 406, 459
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+zxc_bc_izi
+  rotate: false
+  xy: 2, 223
+  size: 209, 286
+  orig: 210, 287
+  offset: 1, 0
+  index: -1
+zxc_bc_shoul
+  rotate: false
+  xy: 267, 242
+  size: 129, 53
+  orig: 130, 55
+  offset: 0, 1
+  index: -1
+zxc_bc_shour
+  rotate: false
+  xy: 310, 458
+  size: 94, 51
+  orig: 94, 53
+  offset: 0, 1
+  index: -1
+zxc_bc_tuil1
+  rotate: true
+  xy: 310, 400
+  size: 47, 105
+  orig: 48, 108
+  offset: 1, 2
+  index: -1
+zxc_bc_tuil2
+  rotate: true
+  xy: 420, 81
+  size: 93, 61
+  orig: 94, 61
+  offset: 1, 0
+  index: -1
+zxc_bc_tuir1
+  rotate: true
+  xy: 369, 176
+  size: 64, 100
+  orig: 65, 101
+  offset: 1, 1
+  index: -1
+zxc_bc_tuir2
+  rotate: true
+  xy: 398, 314
+  size: 84, 65
+  orig: 84, 66
+  offset: 0, 0
+  index: -1

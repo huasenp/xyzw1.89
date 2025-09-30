@@ -1,0 +1,153 @@
+
+js_xjt_lost.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js_xjt_lose_bg
+  rotate: false
+  xy: 2, 305
+  size: 353, 189
+  orig: 358, 193
+  offset: 2, 4
+  index: -1
+js_xjt_lose_circle
+  rotate: true
+  xy: 168, 21
+  size: 122, 102
+  orig: 122, 102
+  offset: 0, 0
+  index: -1
+js_xjt_lose_fish1
+  rotate: true
+  xy: 359, 42
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+js_xjt_lose_fish2
+  rotate: true
+  xy: 113, 6
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+js_xjt_lose_fish3
+  rotate: false
+  xy: 272, 50
+  size: 44, 31
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+js_xjt_lose_fish4
+  rotate: true
+  xy: 357, 341
+  size: 153, 148
+  orig: 155, 151
+  offset: 0, 0
+  index: -1
+js_xjt_lose_fish5
+  rotate: false
+  xy: 318, 51
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+js_xjt_lose_foot
+  rotate: true
+  xy: 294, 204
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+js_xjt_lose_line1
+  rotate: false
+  xy: 429, 80
+  size: 74, 114
+  orig: 74, 114
+  offset: 0, 0
+  index: -1
+js_xjt_lose_line2
+  rotate: true
+  xy: 113, 105
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+js_xjt_lose_seng1
+  rotate: true
+  xy: 2, 179
+  size: 124, 176
+  orig: 124, 177
+  offset: 0, 0
+  index: -1
+js_xjt_lose_seng2
+  rotate: false
+  xy: 294, 247
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+js_xjt_lose_seng3
+  rotate: false
+  xy: 180, 145
+  size: 112, 158
+  orig: 112, 158
+  offset: 0, 0
+  index: -1
+js_xjt_lose_seng4
+  rotate: true
+  xy: 113, 57
+  size: 46, 40
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+js_xjt_lose_seng5
+  rotate: true
+  xy: 491, 319
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+js_xjt_lose_seng6
+  rotate: true
+  xy: 491, 319
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+js_xjt_lose_smoke1
+  rotate: true
+  xy: 357, 196
+  size: 143, 132
+  orig: 143, 132
+  offset: 0, 0
+  index: -1
+js_xjt_lose_smoke2
+  rotate: false
+  xy: 294, 83
+  size: 133, 111
+  orig: 133, 111
+  offset: 0, 0
+  index: -1
+js_xjt_lose_title
+  rotate: true
+  xy: 2, 2
+  size: 175, 109
+  orig: 175, 109
+  offset: 0, 0
+  index: -1
+js_xjt_win_text
+  rotate: true
+  xy: 491, 270
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: true
+  xy: 491, 249
+  size: 19, 14
+  orig: 22, 22
+  offset: 0, 2
+  index: -1

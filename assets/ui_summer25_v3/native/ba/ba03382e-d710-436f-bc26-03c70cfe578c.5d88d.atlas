@@ -1,0 +1,111 @@
+
+sqhd25w7_zq2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fj1_zg
+  rotate: true
+  xy: 702, 67
+  size: 58, 57
+  orig: 60, 60
+  offset: 1, 2
+  index: -1
+wusheng2_10
+  rotate: false
+  xy: 2, 110
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+wusheng2_11
+  rotate: false
+  xy: 2, 2
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+wusheng2_12
+  rotate: false
+  xy: 428, 112
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1
+wusheng2_13
+  rotate: true
+  xy: 532, 113
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+wusheng2_14
+  rotate: false
+  xy: 532, 12
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+wusheng2_3
+  rotate: true
+  xy: 323, 112
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+wusheng2_4
+  rotate: false
+  xy: 428, 7
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+wusheng2_5
+  rotate: false
+  xy: 323, 6
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+wusheng2_6
+  rotate: false
+  xy: 217, 5
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+wusheng2_7
+  rotate: true
+  xy: 110, 110
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+wusheng2_8
+  rotate: true
+  xy: 110, 2
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+wusheng2_9
+  rotate: false
+  xy: 217, 111
+  size: 104, 105
+  orig: 104, 105
+  offset: 0, 0
+  index: -1
+zhuque_1
+  rotate: true
+  xy: 612, 22
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+zhuque_2
+  rotate: false
+  xy: 636, 127
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1

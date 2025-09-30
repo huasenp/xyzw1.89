@@ -1,0 +1,62 @@
+
+zytp_tx1_zs.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zytp_tx_zs1
+  rotate: false
+  xy: 114, 15
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+zytp_tx_zs2
+  rotate: true
+  xy: 2, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+zytp_tx_zs3
+  rotate: false
+  xy: 138, 42
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+zytp_tx_zs4
+  rotate: true
+  xy: 155, 24
+  size: 38, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+zytp_tx_zs5
+  rotate: false
+  xy: 2, 8
+  size: 110, 28
+  orig: 110, 28
+  offset: 0, 0
+  index: -1
+zytp_tx_zs6
+  rotate: true
+  xy: 138, 64
+  size: 62, 89
+  orig: 65, 89
+  offset: 0, 0
+  index: -1
+zytp_tx_zs7
+  rotate: true
+  xy: 2, 38
+  size: 88, 134
+  orig: 101, 134
+  offset: 0, 0
+  index: -1
+zytp_tx_zs8
+  rotate: false
+  xy: 136, 18
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

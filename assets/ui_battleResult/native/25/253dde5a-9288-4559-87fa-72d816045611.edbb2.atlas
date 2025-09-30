@@ -1,0 +1,83 @@
+
+js_xjt_win.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js_xjt_win_bg
+  rotate: false
+  xy: 2, 182
+  size: 462, 239
+  orig: 462, 239
+  offset: 0, 0
+  index: -1
+js_xjt_win_fire
+  rotate: true
+  xy: 2, 2
+  size: 178, 130
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+js_xjt_win_fish1
+  rotate: false
+  xy: 466, 264
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+js_xjt_win_fish2
+  rotate: false
+  xy: 384, 52
+  size: 121, 128
+  orig: 123, 128
+  offset: 2, 0
+  index: -1
+js_xjt_win_fish3
+  rotate: true
+  xy: 466, 234
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+js_xjt_win_fish4
+  rotate: true
+  xy: 466, 293
+  size: 57, 34
+  orig: 64, 38
+  offset: 7, 4
+  index: -1
+js_xjt_win_fish5
+  rotate: true
+  xy: 245, 64
+  size: 116, 137
+  orig: 116, 137
+  offset: 0, 0
+  index: -1
+js_xjt_win_fish6
+  rotate: true
+  xy: 466, 352
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+js_xjt_win_text
+  rotate: true
+  xy: 466, 185
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+js_xjt_win_title
+  rotate: true
+  xy: 134, 5
+  size: 175, 109
+  orig: 175, 109
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 486, 217
+  size: 17, 15
+  orig: 22, 22
+  offset: 2, 2
+  index: -1

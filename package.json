@@ -1,0 +1,24 @@
+{
+  "name": "slatshark",
+  "version": "2.0.0",
+  "description": "鲨鱼之王客户端",
+  "main": "./out/main/index.js",
+  "author": "example.com",
+  "homepage": "https://electron-vite.org",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@electron-toolkit/preload": "^3.0.1",
+    "@electron-toolkit/utils": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "lz4js": "^0.2.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "electron",
+      "esbuild"
+    ]
+  }
+}

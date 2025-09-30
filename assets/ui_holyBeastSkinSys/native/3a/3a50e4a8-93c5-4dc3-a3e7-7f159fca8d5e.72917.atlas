@@ -1,0 +1,111 @@
+
+ssxt_pfsd_wgyl.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ssxt_pfsd_wgyl
+  rotate: true
+  xy: 2, 133
+  size: 119, 103
+  orig: 119, 103
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_bh1
+  rotate: false
+  xy: 353, 95
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_bh2
+  rotate: true
+  xy: 423, 102
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_bh3
+  rotate: false
+  xy: 2, 2
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_bhzj
+  rotate: false
+  xy: 367, 183
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_ql1
+  rotate: false
+  xy: 484, 118
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_ql3
+  rotate: false
+  xy: 90, 2
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_ql4
+  rotate: true
+  xy: 107, 166
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_qlgy
+  rotate: false
+  xy: 353, 24
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_xu3
+  rotate: false
+  xy: 266, 37
+  size: 85, 127
+  orig: 85, 127
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_xu4
+  rotate: true
+  xy: 238, 166
+  size: 86, 127
+  orig: 86, 127
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_xw1
+  rotate: false
+  xy: 437, 184
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_zi
+  rotate: false
+  xy: 107, 138
+  size: 90, 26
+  orig: 90, 26
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_zq1
+  rotate: false
+  xy: 423, 34
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_wgyl_zq3
+  rotate: false
+  xy: 178, 7
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1

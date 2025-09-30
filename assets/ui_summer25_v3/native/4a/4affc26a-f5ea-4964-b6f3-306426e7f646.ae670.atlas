@@ -1,0 +1,62 @@
+
+sqhd25w7_hhjs_sunce.png
+size: 469,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sqhd25w3_hhjs_gy
+  rotate: true
+  xy: 123, 152
+  size: 292, 234
+  orig: 301, 254
+  offset: 6, 10
+  index: -1
+sqhd25w3_hhjs_gy_qipao
+  rotate: true
+  xy: 359, 161
+  size: 283, 94
+  orig: 283, 95
+  offset: 0, 1
+  index: -1
+sqhd25w3_hhjs_zi1
+  rotate: false
+  xy: 132, 2
+  size: 116, 148
+  orig: 116, 149
+  offset: 0, 1
+  index: -1
+sqhd25w3_hhjs_zi2
+  rotate: false
+  xy: 250, 3
+  size: 83, 147
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+sqhd25w3_hhjs_zi3
+  rotate: true
+  xy: 335, 6
+  size: 88, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+sqhd25w3_hhjs_zi4
+  rotate: true
+  xy: 2, 3
+  size: 89, 128
+  orig: 89, 128
+  offset: 0, 0
+  index: -1
+sqhd25w3_hhjs_zi5
+  rotate: true
+  xy: 335, 96
+  size: 54, 132
+  orig: 55, 132
+  offset: 0, 0
+  index: -1
+sqhd25w3_hhjs_zy_yan
+  rotate: true
+  xy: 2, 94
+  size: 350, 119
+  orig: 350, 119
+  offset: 0, 0
+  index: -1
